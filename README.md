@@ -37,7 +37,7 @@ Didn't quite get how to return data using intents at first glance (it was late a
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Jordan Anderson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
